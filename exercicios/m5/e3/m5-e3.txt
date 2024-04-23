@@ -1,0 +1,4 @@
+243.171.198.248
+61384
+database.sql
+TIMEOUT NA CONEXÃO
